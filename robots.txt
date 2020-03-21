@@ -1,0 +1,6 @@
+Disallow: /img/
+Disallow: /css/
+Disallow: /imprint.html
+Disallow: /de/imprint.html
+Disallow: /dsgvo.html
+Disallow: /de/dsgvo.html
